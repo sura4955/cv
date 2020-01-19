@@ -18,11 +18,12 @@ hr {
 .hobbies,
 img {
     width: 250px;
+    border-radious:50%;
 
 }
 
 img:hover {
     background-color: gold;
-
+    
 
 }
